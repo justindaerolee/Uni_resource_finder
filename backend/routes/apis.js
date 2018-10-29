@@ -6,7 +6,7 @@ const request = require('request');
 
 //google map API's
 // google's geocoding
-const geoCodeKey = 'AIzaSyCBLqAaBICtrM4MbmladR5NGRN_DsUSkcQ';
+const geoCodeKey = 'INPUT_PRIVATE_KEY';
 router.get('/geocode', function(req, res) {
 	res.setHeader('Access-Control-Allow-Origin', '*');
 	if (req.query.address != null) {
@@ -27,7 +27,7 @@ router.get('/geocode', function(req, res) {
 	});
 });
 // google's distance matrix api
-const distMatKey = 'AIzaSyCiWNrTayklE4nd9uufTP7p6BHZiK1BaXE';
+const distMatKey = 'INPUT_PRIVATE_KEY';
 router.get('/distanceMatrix', function(req, res) {
 	res.setHeader('Access-Control-Allow-Origin', '*');
 	var origin = req.query.origin;
@@ -47,7 +47,7 @@ router.get('/distanceMatrix', function(req, res) {
 });
 
 
-const keyYoutube = 'AIzaSyDtajOWGLKdiCF1kWg8GDwNLSO4SngwaG0';
+const keyYoutube = 'INPUT_PRIVATE_KEY';
 // send back a list of youtube search results to frontend
 // youtube get request
 //https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=5&order=relevance&q=unsw&type=video&key=AIzaSyDtajOWGLKdiCF1kWg8GDwNLSO4SngwaG0
@@ -131,7 +131,7 @@ router.get('/googleBooks', function(req, res) {
 // end of google API's
 
 //trove API for national library of Australia.
-const troveKey = 'mn6jo7d218fr9rcm';
+const troveKey = 'INPUT_PRIVATE_KEY';
 router.get('/nla', function(req, res) {
 	res.setHeader('Access-Control-Allow-Origin', '*');
   	var searchString = req.query.search;
@@ -175,7 +175,7 @@ router.get('/nla', function(req, res) {
   	});
 });
 
-const goodReadKey = 'BOQWZZsLSGxJd657QTkW7A';
+const goodReadKey = 'INPUT_PRIVATE_KEY';
 router.get('/goodRead', function(req, res) {
 	res.setHeader('Access-Control-Allow-Origin', '*');
   	var searchString = req.query.search;
@@ -227,7 +227,7 @@ router.get('/goodRead', function(req, res) {
   	});
 });
 
-const ebayAppId = 'JackMcCl-Ventures-PRD-ae3fbf170-2d856284';
+const ebayAppId = 'INPUT_PRIVATE_KEY';
 router.get('/ebay', function(req, res) {
     res.setHeader('Access-Control-Allow-Origin', '*');
 	var searchString = req.query.search;
