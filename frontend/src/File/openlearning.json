@@ -1,0 +1,1201 @@
+{
+     "courses": [
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/sec",
+             "creator": {
+                 "fullName": "Richard Buckland",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/richard.buckland-avatar-48-ts1348830373.jpg",
+                 "karma": 10571,
+                 "profileUrl": "https://www.openlearning.com/u/richard.buckland"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_sec__course-promo-image-1449478868.74.jpg",
+             "name": "sec.edu - Security Engineering - Applied Cyber Security",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/41r1alSkhto",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "UNSW in proud partnership with the CBA are releasing a sequence of public courses in cyber security, under the banner of the SecEDU  'Security Engineering Capability' program.  The first course started in 2016.Register here to participate.  Everyone welcome. Just bring your wits, cunning, and passion.  And keep your eyes peeled for the McGuffin.Some courses will requre C programming familiarity, others require no specific background and are suitable for those wishing to increase their understanding of cyber security.  All courses require strong analytical capabilities.These courses are largely the same as the famous UNSW University Cyber Security courses - you are welcome to learn from them and join in the community.  You won't get official UNSW credit for them (unless you formally enrol as a UNSW student, and sit the exams etc) but you are *very* welcome to learn here for free.SEC.EDU is a proud partnership between UNSW and Commonwealth Bank.  ",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/mediaucreate",
+             "creator": {
+                 "fullName": "Brian Landrigan",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/brianlandrigan-avatar-48-ts1413412996.jpg",
+                 "karma": 1,
+                 "profileUrl": "https://www.openlearning.com/u/brianlandrigan"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_mediaucreate__course-promo-image-1422419033.47.jpg",
+             "name": "mediaUcreate",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/i44xjSeCccA",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "What makes a good educational media resource? With your help I would like to try and answer this question. This course is filled with curated content and activities to get you started in exploring the use of media for education. The topics are listed below and it is up to you to decide what areas you would like to focus on. It's an opportunity for all of us to gain new insights into how media can be used to enhance someone's learning experience. The only requirement is that you create a free account to upload your projects and share within this space. The course is perpetual and will stay open to allow for people to share their projects and grow the course into a collaborative learning space. So if you are interested in dipping your toe into the murky waters of educational media production, please join us :)",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://www.openlearning.com/courses/winning-corporate-strategy-for-business-sustainability",
+             "creator": {
+                 "fullName": "USM-MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/hazwanicmn-avatar-48-ts1441855966.jpg",
+                 "karma": 24,
+                 "profileUrl": "https://www.openlearning.com/u/hazwanicmn"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_winningcorporatestrategyforbusinesssustainability__course-promo-image-1472181194.19.jpg",
+             "name": "Winning Corporate Strategy for Business Sustainability",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/2XQRT0KiAyE",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "Strategy is an important subject. This course is designed to introduce participants to the central strategic challenges facing corporate managers. The course examines how organizations generate and preserve corporate advantage, and the factors that impact a firm's choice of scope, organization, and ownership. This course incorporates various conceptual and practical perspectives, yet is designed to focus on the essential issues and problems of corporate strategy as experienced by managers. As per the tagline Boss via TOP, this course guides participants to be successful corporate leaders. A successful corporate leader is the one able to optimize the Return on Investment (ROI) for business sustainability and being an ROI Champion. Upon completing this course, participants will be confident to take up leading role in the organization by crafting winning corporate strategy. Participants will be able to synergize the competencies gained from this course to create a distinctive competitive edge for an organization. Winning corporate strategy is a strategy with the strategic agility that enables organizations to manage uncertainties and capitalize opportunity to optimize ROI. This course introduces two models called SWIM and I-TOP. SWIM is a strategic management process model that enables participants to craft winning corporate strategy while I-TOP model injects strategic agility needed for business sustainability. COURSE OUTLINE LESSON 1: Introduction LESSON 2: Strategic Input Process 1: Formation of Organization LESSON 3: Strategic Input Process 2: Scenario Planning LESSON 4: Strategic Input Process 3: Winning Factor LESSON 5: Strategic Input Process 4: Market Cycle and Market Attractiveness LESSON 6: Strategy Formation 1: I-TOP Model - Technology Infinite Possibilities LESSON 7: Strategy Formation 2: I-TOP Model - Outright Environmental Scanning LESSON 8: Strategy Formation 3: I-TOP Model - People-Human Capital Development LESSON 9: Strategy Implementation LESSON 10: Matching - Business Ethics LESSON 11: Matching - Legality LESSON 12: FutureCOURSE LEARNING OUTCOMES 1. Align their personal strategy with corporate strategy to attain the shareholder's goal. 2. Differentiate between symptomatic strategy and root cause strategy. 3. Utilize SWIM Strategic Management Process Model to craft a winning corporate strategy. 4. Set Vision, Mission and Tagline for the organization. 5. Utilize I-TOP Strategic Agility Model to attain the agility needed by the corporate strategy for business sustainability. 6. Craft the appropriate implementation strategy. 7. Ensure that their strategy does to involve with any ethical or legal issues that might be detrimental to the organization and the stakeholders.",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/utm/courses/SPPM4342x",
+             "creator": {
+                 "fullName": "UTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utmmooc-avatar-48-ts1426667461.jpg",
+                 "karma": 341,
+                 "profileUrl": "https://www.openlearning.com/u/utmmooc"
+             },
+             "duration": "10 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__utm_courses_SPPM4342x__course-promo-image-1441701049.29.jpg",
+             "name": "WEB BASED MULTIMEDIA DEVELOPMENT",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/wUcTCDu9dWM",
+             "selfPaced": true,
+             "startDate": "13 Feb 2016",
+             "summary": "Course Synopsis  This course is aimed at those students wishing to produce innovative web-based multimedia especially for educational purposes. The standard and compatibility of each multimedia component in web development will be highlighted. We will also be looking at how messages are effectively constructed on the web by reviewing design concepts and discussing successful web sites. This course also will give students a basic understanding of core design principles that apply to web design and development. Web project management, testing and evaluation aspect, issues and trends in web development, as long as publishing and maintaining the website will also be emphasize. Students successfully completing this course will have an understanding of the practical and theoretical issues relevant to web design and the online presentation of information using multiple media. Course Learning Outcome  Identify concepts of developing educational webpage for the use of teaching and learning.  Apply instructional design models for developing a webpage.  Learn technologies that relate with a webpage deeply   Develop an educational webpage or portal that has teaching and learning elements.  Conduct an evaluation process of the webpage or portal that has been developed. Course Delivery Format  Test ; Project ; Quiz ; Homework ; Forum ; Assignment Pre-requisite Knowledge  Web Basic Programming Skills Instructor Information DR. NOOR AZEAN BINTI ATAN Senior Lecturer Educational, Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: azean@utm.my | Website : educ.utm.my/azeanDR. HASNAH BINTI MOHAMED Senior Lecturer Educational, Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: hasnah-m@utm.my | Website : educ.utm.my/hasnah-mDR. MOHD NIHRA HARUZUAN BIN MOHD SAID Senior Lecturer Educational, Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: nihra@utm.my | Website : educ.utm.my/nihrDR. NORAZRENA BINTI ABU SAMAH Senior Lecturer Educational, Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: norazrena@utm.my | Website : educ.utm.my/norazrenaDR. NOOR DAYANA BINTI ABD HALIM Lecturer Educational, Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: noordayana@utm.my | Website : educ.utm.my/noordayanaMR. JUHAZREN BIN JUNAIDI Lecturer Educational, Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: juhazren@utm.my | Website : educ.utm.my/juhazrenASSOCIATE PROF. DR. NORAFFANDY YAHAYA Lecturer Educational Science, Mathematics and Multimedia Creative Department Faculty of Education Universiti Teknologi Malaysia E-mail: p-afandy@utm.my | Website : educ.utm.my/afandy/",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/unsw/computing1",
+             "creator": {
+                 "fullName": "Richard Buckland",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/richard.buckland-avatar-48-ts1348830373.jpg",
+                 "karma": 10571,
+                 "profileUrl": "https://www.openlearning.com/u/richard.buckland"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_unsw_computing1__course-promo-image-1367498577.jpg",
+             "name": "UNSW Computing 1 - The Art of Programming",
+             "price": 0,
+             "promoMediaUrl": "https://openlearning-cdn.s3.amazonaws.com/course__courses_unsw_computing1__course-landing-image-1367201212.jpg",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Discover the world of computing, learn software design and development while solving puzzles with world renowned lecturer Richard Buckland.",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/teaching-by-design",
+             "creator": {
+                 "fullName": "Muhamad Saiful Bahri Yusoff",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/muhamadsaifulbahriyusoff-avatar-48-ts1408005715.jpg",
+                 "karma": 87,
+                 "profileUrl": "https://www.openlearning.com/u/muhamadsaifulbahriyusoff"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_teachingbydesign__course-promo-image-1497227370.81.jpg",
+             "name": "Teaching by Design",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/brFBi9pM2qs",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "(Click on the picture and scroll over on the number for explanation about this course)This course aims to provide guidance to participants on the teaching loop to foster and facilitate learning. Participants are taken through the four phases of teaching interactively. At each phase, participants will be exposed to various strategies to engage learners. Subsequently, participants are exposed to what it takes to innovate teaching practices. ",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/tamadunislamtamadunasia",
+             "creator": {
+                 "fullName": "PUTRAMOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/titas-avatar-48-ts1410770551.jpg",
+                 "karma": 13502,
+                 "profileUrl": "https://www.openlearning.com/u/titas"
+             },
+             "duration": "7 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_tamadunislamtamadunasia__course-promo-image-1480917935.19.jpg",
+             "name": "Tamadun Islam dan Tamadun Asia (TITAS)",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/FwP0SYOHfXM",
+             "selfPaced": null,
+             "startDate": "02 Aug 2017",
+             "summary": "Kursus Tamadun Islam dan Tamadun Asia (TITAS) ini memfokus kepada peranan ilmu ketamadunan dalam membina masyarakat Malaysia berasaskan prinsip-prinsip tamadun bagi mengamalkan semangat hormat menghormati dan berinteraksi dalam masyarakat pelbagai agama. Pengajian ketamadunan ini juga berperanan penting dalam pembinaan tamadun Malaysia agar masyarakat peka dengan isi-isi ketamadunan dan mempunyai sikap positif terhadap dialog budaya dan tamadun.  ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://www.openlearning.com/courses/sun-zis-art-of-war-in-business-",
+             "creator": {
+                 "fullName": "UTAR Openlearning",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utaropenlearning-avatar-48-ts1484701873.jpg",
+                 "karma": 11,
+                 "profileUrl": "https://www.openlearning.com/u/utaropenlearning"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_sunzisartofwarinbusiness__course-promo-image-1484626675.78.jpg",
+             "name": "Sun Zis Art of War in Business",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/Mypmep9bJEA",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "We hope you will have a wonderful time and learn a lot about  Sun Zi's Art War in Business!! ",
+             "type": "free"
+         },
+         {
+             "category": "Economics",
+             "courseUrl": "https://www.openlearning.com/courses/sun-zis-art-of-war-in-business-",
+             "creator": {
+                 "fullName": "UTAR Openlearning",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utaropenlearning-avatar-48-ts1484701873.jpg",
+                 "karma": 11,
+                 "profileUrl": "https://www.openlearning.com/u/utaropenlearning"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_sunzisartofwarinbusiness__course-promo-image-1484626675.78.jpg",
+             "name": "Sun Zis Art of War in Business",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/Mypmep9bJEA",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "We hope you will have a wonderful time and learn a lot about  Sun Zi's Art War in Business!! ",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/statisticalanalysis",
+             "creator": {
+                 "fullName": "FPUiTM",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/fpuitm-avatar-48-ts1457169793.jpg",
+                 "karma": 6,
+                 "profileUrl": "https://www.openlearning.com/u/fpuitm"
+             },
+             "duration": "13 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_statisticalanalysis__course-promo-image-1457110691.75.jpg",
+             "name": "Statistical Analysis for Educational Re\u00adsearchers",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/GmC589OzsGw",
+             "selfPaced": true,
+             "startDate": "31 Aug 2014",
+             "summary": "A step by step guide on: - Defining variables  - Entering the data  - Running the SPSS  - Interpreting the data  - Presenting the data  - Writing the statistical report ",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/ribbonembroidery",
+             "creator": {
+                 "fullName": "Suzana Mustafa",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/suzanamustafa-avatar-48-ts1466063419.jpg",
+                 "karma": 126,
+                 "profileUrl": "https://www.openlearning.com/u/suzanamustafa"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_ribbonembroidery__course-promo-image-1434269915.67.jpg",
+             "name": "Ribbon Embroidery",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/T3GmgfMJXpc",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "The ribbon embroidery course is designed to appeal to the beginner as well as the more advanced embroiderer, this course will become an essential reference for anyone stitching with ribbon. I will provide practical advice on the materials required and important techniques. Features comprehensive step-by-step instructions for over 60 ribbon embroidery stitches. Includes patterns for inspire you, from the simplest single flower to the most enchanting ribbon flowers.",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/rethinkingteachingredesigninglearning",
+             "creator": {
+                 "fullName": "Mohamed Amin Embi",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/mohamedamin-avatar-48-ts1437536201.jpg",
+                 "karma": 3040,
+                 "profileUrl": "https://www.openlearning.com/u/mohamedamin"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_rethinkingteachingredesigninglearning__course-promo-image-1491436689.03.jpg",
+             "name": "Rethinking Teaching; Redesigning Learning",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/zp9JfBdWSDY",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "The problem with today's education is that most educators are still teaching the way they were taught in the past.  Hence, there is a need to revisit the traditional conception of teaching and explore new ways to redesign learning so that it is relevant to the growing challenges of preparing our students to function in tomorrow's world. This course is designed to facilitate pariticipants to redefine their conceptions of teaching and redesign their students' learning experiences so that they meet the needs of the 21st century education.RTRL is equivalent to a 5 credit hours course offered as a self-paced mode over a period of 24 weeks. There are 12 modules, hence we recommend that you spend about 2 weeks for each module. Since the course will be very much 'hearts-on' and 'minds-on' (Modules 1-6) as well as 'hands-on' (Modules 7-12), course participants are expected to complete various activities set for each module.At the moment, the course is offered in a self-paced mode. Hence, although the contents are structured for easy internalization, participants can explore them according to their preferred learning pathways.    ",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/instructional-technology-for-the-educators",
+             "creator": {
+                 "fullName": "Johan Eddy",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/johaneddy-avatar-48-ts1415881560.jpg",
+                 "karma": 70,
+                 "profileUrl": "https://www.openlearning.com/u/johaneddy"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_instructionaltechnologyfortheeducators__course-promo-image-1474961385.27.jpg",
+             "name": "Re-Engineering Teaching and Learning with Technology",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/fg9vLW9b-Q0",
+             "selfPaced": null,
+             "startDate": "14 Nov 2016",
+             "summary": "T  he usage of technology has become increasingly prominent in education these days, evident by the infrastructure and facilities in schools ranging from tablets to high speed internet connectivity. This book is written to complement the effort of promoting the integration of technology with education, focusing on the basic knowledge of technology which an educator should know.  I started this MOOC with a brief history of computers to illustrate the rapid development of technology and how lives are affected and dependent on it. The later chapters help novice learners in understanding the use of technology for educational purposes while guiding readers on the terms commonly used in instructional technology. This MOOC also comprised chapters guiding teachers in utilizing resources available in the internet, with a hope to alleviate teachers burden by working efficiently through collaboration and idea sharing.   With the integration of technology, there is a need for a different classroom management compared to the traditional ones. Hence, this book also covers on the skills needed by teachers in order to manage an IT classroom promoting more effective classroom management. Realising that integrating technology in education is not all beneficial without a single flaw, I also touched on few issues related to instructional technology such as piracy, unequal access and internet security within the essence of education. Other than that, readers will appreciate the myriad diagrams and screenshots included in this book to help readers navigate themselves in making the most out of the content of this book. With the topics written covered most of the necessary, this book ends with anticipations for instructional technology in the future.   I certainly   hope that this MOOC will provide a resource to advocate for the best possible ways of how learning can be carried out effectively with technology. My goal is that the ideas in this book will help support educators in deriving effective lessons through instructional technology, while also nurturing their sense of joy in learning alongside their teaching.  Lets use the technology to change the way we teach!    ",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/SPPP3042x",
+             "creator": {
+                 "fullName": "UTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utmmooc-avatar-48-ts1426667461.jpg",
+                 "karma": 341,
+                 "profileUrl": "https://www.openlearning.com/u/utmmooc"
+             },
+             "duration": "22 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_SPPP3042x__course-promo-image-1441701163.16.jpg",
+             "name": "RESEARCH METHODS IN EDUCATION",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/PXefT2jGde4",
+             "selfPaced": null,
+             "startDate": "05 Sep 2015",
+             "summary": "About This CourseThe course exposes students to various methods of conducting research. The main topics discussed are concepts and criteria of scientific research in education, procedures in conducting research activities including selecting topic, defining research background, formulating problem statements, research objectives, research questions and hypotheses. Topics related to procedures such as literature search, constructing research methodology, sampling, conducting pilot study, and data processing are also discussed. Students should be able to work in groups to construct a research proposal relevant to their respective field of study.Course StaffDR. ADIBAH BINTI ABDUL LATIF Senior Lecturer Department of Educational Foundation and Social Science Faculty of Education Universiti Teknologi Malaysia E-mail: p-adibah@utm.my | Website : educ.utm.my/adibahDR. AQEEL KHAN Senior Lecturer Department of Educational Foundation and Social Sciences Faculty of Education Universiti Teknologi Malaysia E-mail: draqeelkhan@gmail.com | Website : educ.utm.my/aqeel DR. HEE JEE MEISenior Lecturer Department of Educational Foundation and Social Science Faculty of Education Universiti Teknologi Malaysia E-mail: jmhee@utm.my | Website : educ.utm.my/jmhee DR. MAHANI BTE MOKHTAR Senior Lecturer Department of Educational Foundation and Social Science Faculty of Education Universiti Teknologi Malaysia E-mail: p-mahani@utm.my | Website : educ.utm.my/mahaniDR. NARINA BINTI A. SAMAH Senior Lecturer Department of Educational Foundation and Social Science Faculty of Education Universiti Teknologi Malaysia E-mail: narina@utm.my | Website : educ.utm.my/narinaDR. SANITAH BTE MOHD YUSOF Senior Lecturer Department of Educational Foundation and Social Science Faculty of Education Universiti Teknologi Malaysia E-mail: p-sanitah@utm.my | Website : educ.utm.my/sanitahDR. ZAINUDIN BIN HASSAN Senior Lecturer Department of Educational Foundation and Social Science Faculty of Education Universiti Teknologi Malaysia E-mail: p-zainudin@utm.my | Website : educ.utm.my/zainudinCourse Learning OutcomeAt the end of this course participants should be able to know: Pre-requisite Knowledge  ",
+             "type": "free"
+         },
+         {
+             "category": "Social Sciences",
+             "courseUrl": "https://www.openlearning.com/courses/practical-english-",
+             "creator": {
+                 "fullName": "UTAR Openlearning",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utaropenlearning-avatar-48-ts1484701873.jpg",
+                 "karma": 11,
+                 "profileUrl": "https://www.openlearning.com/u/utaropenlearning"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_practicalenglish__course-promo-image-1486344131.62.jpg",
+             "name": "Practical English",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/1PVTsaZ7WZ4",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": " Practical English is an online learning course designed for learners to acquire basic knowledge on grammar components and to apply the understanding through practices and quizzes. It contains 9 units where learners can download PDF notes and attempt to answer practices and quizzes to test their knowledge on each unit. ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://www.openlearning.com/courses/personalbranding",
+             "creator": {
+                 "fullName": "Tom Benjamin",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/tom.benjamin-avatar-48-ts1363056606.jpg",
+                 "karma": 189,
+                 "profileUrl": "https://www.openlearning.com/u/tom.benjamin"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_personalbranding__course-promo-image-1406620745.15.jpg",
+             "name": "Personal Branding: How to build & manage your image",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/iHIowpBqpNc",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "Brands originated as proofs of ownership, such as those burnt onto cattle. They evolved to become the symbolic identity for goods and services. This easy identification, with logos and trademarks, became a short cut for quality and trust. People putting their services in the marketplace also became \u2018brand names. This used to a game only for the rich, successful, or notorious. But In the 21st Century anyone participating in the Web has a searchable identity. So whether we like it or not, we have a brand to cultivate.This course provides systematic ways of reviewing and implementing your existing and proposed brand identities, based on psychology and demography. Multimedia is now so affordable that a full Hollywood-style extravaganza is possible. So technology is no longer a constraint. Rather, the focus is on strategy to drive the use of the technology.Who should take this course?A personal brand can be useful for people needing to announce their presence and get out a message. Commonly that is a job seeker, someone promoting their art or music, someone starting a business, or a group promoting a \u2018cause. ",
+             "type": "free"
+         },
+         {
+             "category": "Social Sciences",
+             "courseUrl": "https://www.openlearning.com/courses/Neuropsychotherapy",
+             "creator": {
+                 "fullName": "Tom Benjamin",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/tom.benjamin-avatar-48-ts1363056606.jpg",
+                 "karma": 189,
+                 "profileUrl": "https://www.openlearning.com/u/tom.benjamin"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_Neuropsychotherapy__course-promo-image-1381214673.86.jpg",
+             "name": "Neuropsychotherapy",
+             "price": 0,
+             "promoMediaUrl": "http://www.youtube.com/watch?v=xIYI9OuIu6M",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "The World Federation for Mental Health prescribes: Stimulate new areas of your brain and grow more connections among brain cells by intellectually challenging yourself. Solve a puzzle, learn a new musical instrument, read a challenging book, play a board or card game, attend a lecture or play, or write a short story. This Neuropsychotherapy Course helps therapists and teachers adapt digital gamification and multimedia to provide such stimulation. It builds from basic audio-visual skills to comprehensive studio techniques, all within conventional budget limits. ",
+             "type": "free"
+         },
+         {
+             "category": "Social Sciences",
+             "courseUrl": "https://www.openlearning.com/courses/neuropsychology",
+             "creator": {
+                 "fullName": "Tom Benjamin",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/tom.benjamin-avatar-48-ts1363056606.jpg",
+                 "karma": 189,
+                 "profileUrl": "https://www.openlearning.com/u/tom.benjamin"
+             },
+             "duration": "1 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_neuropsychology__course-promo-image-1414645521.7.jpg",
+             "name": "Neuropsychology",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/vx6ZUs_8bOo",
+             "selfPaced": null,
+             "startDate": "09 Nov 2014",
+             "summary": " This course has been prepared for the NSW Branch of the Australian Psychological Society, College of Forensic Psychologists. It is self-study and self-documenting. The presentations are discussion triggers rather than providing all the answers to quiz questions. Supplementary resources are a podcast series of 34 .mp3 files at http://www.radio-tom.com   These audio files will form the soundtrack for movie versions in 2015.It is open to the general public. Because accreditation in professional psychology is heavily-governed by law in some jurisdictions this course is not marked or proctored, so is regarded purely as public interest and self-study. Any comments made by the course providers are purely for the purposes of clarification and furthering discussion.The international firm, Accredible, has generously offered its documentation services to those who wish to present their progress with these resources to their respective local accrediting and registration authorities for professional development purposes, ",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/multimediatechnologyanddesign",
+             "creator": {
+                 "fullName": "UNIMAS-MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/unimas-avatar-48-ts1403766719.jpg",
+                 "karma": 4869,
+                 "profileUrl": "https://www.openlearning.com/u/unimas"
+             },
+             "duration": "15 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_multimediatechnologyanddesign__course-promo-image-1441789628.73.jpg",
+             "name": "Multimedia Technology and Design",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/_8bqk2Ef9AQ&list=PLma7lafCkl9TN-xqVl5yxzpfkUTIForZP",
+             "selfPaced": true,
+             "startDate": "20 Sep 2017",
+             "summary": "This Multimedia Technology and Design MOOC course is brought to you proudly by the Faculty of Computer Science and Information Technology, Universiti Malaysia Sarawak (UNIMAS).In this course we will introduce you to the past, current and future of multimedia technology. We will explore trends, techniques, tools and technology related to digital multimedia technology. We will cover both theoretical and practical aspects of designing multimedia products. You will learn core concepts and acquire various skills in multimedia production.",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/MobileGameDevelopmentWit",
+             "creator": {
+                 "fullName": "Sean Lim",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/seanlim-avatar-48-ts1393216372.jpg",
+                 "karma": 13,
+                 "profileUrl": "https://www.openlearning.com/u/seanlim"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_MobileGameDevelopmentWit__course-promo-image-1390370558.13.jpg",
+             "name": "Mobile Game Development with Game Salad",
+             "price": 0,
+             "promoMediaUrl": "http://www.youtube.com/watch?v=fMu95XLbGxU",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "*THIS MOOC HAS OFFICIALLY ENDED AND NO CERTIFICATE WILL BE ISSUED NOR COMMENTS BE READ BY THE TEAM AT TAYLOR'S UNIVERSITY. HOWEVER, STUDENTS CAN STILL ENROLL AND VIEW THE CONTENT.This MOOC will teach you how to create a mobile game using GameSalad Creator. In the space of just a few weeks we will go through the whole game creation process using GameSalad, teaching the steps and tricks on creating your very own mobile game.This course is targeted to secondary school levers however anyone can register into this course and participate in the activities.Learners are expected to review the lesson in form of video/pdf/ppt slides and participate in the course activities in form of forum, practice or quiz in order to receive the certificate of completion.If you have pre-registered before the start date, you will be able to see the content, but you can't click to view any of the content until the start date.",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/mendeleydanmsword",
+             "creator": {
+                 "fullName": "Noraini Talib",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/mashunah-avatar-48-ts1484119796.jpg",
+                 "karma": 13,
+                 "profileUrl": "https://www.openlearning.com/u/mashunah"
+             },
+             "duration": "52 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_mendeleydanmsword__course-promo-image-1428815202.54.jpg",
+             "name": "Mendeley dan Ms Word: Gaya UKM",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/q_sdtFc2X1k",
+             "selfPaced": true,
+             "startDate": "03 Jan 2017",
+             "summary": "Kursus Mendeley dan Word: Tesis Gaya UKM ini akan memberi tunjuk ajar satu persatu kepada pelajar bagaimana menggunakan perisian Mendeley dari pemasangan  sehingga bagaimana ia digunakan bersama-sama dengan Ms Word. Para pelajar juga akan ditunjukkan bagaimana tetapan dibuat pada Ms Word serta teknik-teknik yang membolehkan penulisan tesis gaya UKM dilakukan dengan mudah.",
+             "type": "free"
+         },
+         {
+             "category": "Mathematics",
+             "courseUrl": "https://www.openlearning.com/courses/mathsterminologyfornon-englishspeakingunistudents",
+             "creator": {
+                 "fullName": "Norman Wildberger",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/norman.wildberger-avatar-48-ts1376281212.jpg",
+                 "karma": 181,
+                 "profileUrl": "https://www.openlearning.com/u/norman.wildberger"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_mathsterminologyfornonenglishspeakingunistudents__course-promo-image-1405466388.05.jpg",
+             "name": "Math Terminology for incoming Uni students",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/CJ5GTW7-OgU",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Entering university or college soon? Planning on taking some mathematics classes there--perhaps for your program in engineering, science or business?If you want a refresher on the most important terminology and notation for first year university mathematics, then this short course is just for you. The course will be especially useful if you are from a  non-English speaking background.The course is organized into 7 modules, each covering a different topic. Each module consists of a video about 30-45 minutes long, and also 15-30 minutes of activities.Award winning teacher A/Prof N J Wildberger from the School of Mathematics and Statistics, Faculty of Science, UNSW, Australia  will summarize key mathematical concepts and language, and give you important tips on how to write mathematics successfully. As a bonus, you'll get a quick and useful review of essential high school mathematics. These are the ideas and facts that leading universities, such as UNSW, expect you to know as a first year maths student.So sign up to openlearning, join the course, and roll up your sleaves for some fun and challenges that will boost your comprehesion of mathematics---and smooth your way into first year university or college. ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/Bsbldr403",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbldr403__course-promo-image-1467786006.95.jpg",
+             "name": "Lead a Team to Success",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "Effective teams work together towards a common goal. Top managers know that effective teams create positive culture, increase productivity, foster innovation and enhance business growth. Now you have a unique opportunity to develop skills in leadership and management and lead your team to success!",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/introductory-japanese-language-level-1",
+             "creator": {
+                 "fullName": "UiTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/masmeduitm-avatar-48-ts1441441118.jpg",
+                 "karma": 2141,
+                 "profileUrl": "https://www.openlearning.com/u/masmeduitm"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_introductoryjapaneselanguagelevel1__course-promo-image-1473040189.52.jpg",
+             "name": "Introductory Japanese Language (Level I)",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/II5637BD0OE",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "Course Information : This course is the first stage of the Introductory Level 1 of the Japanese Language program. Students taking this course are exposed to the vocabulary, grammar, and Japanese phrases as well as basic conversational Japanese in daily situational contexts. Emphasis is given to consolidating the four communication skills namely listening, speaking, reading and writing. The course aims to equip students with the ability to communicate using simple Japanese phrases relevant to foundation level.",
+             "type": "free"
+         },
+         {
+             "category": "Mathematics",
+             "courseUrl": "https://www.openlearning.com/courses/vectors",
+             "creator": {
+                 "fullName": "Dr Chris Tisdell",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/drchristisdell-avatar-48-ts1489647503.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/drchristisdell"
+             },
+             "duration": "52 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_vectors__course-promo-image-1455751380.12.jpg",
+             "name": "Introduction to Vectors",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/s6D6Q0hIg5s",
+             "selfPaced": true,
+             "startDate": "18 Feb 2016",
+             "summary": "Description&quot;Introduction to Vectors&quot; is a free course that takes learning to a new level by fusing online video with a free extextbook and is supported by insightful quizzes. Each lesson is from award-winning teacher and best-selling author Dr Chris Tisdell, who explains the material in an inspiring and engaging way.The quizzes have been designed by a team of dedicated and passionate students that bring learning to life!Vectors provide a fascinating tool to describe motion and forces in physics and engineering. They also provide a simple framework for understanding geometry. Introduction to Vectors YouTube Playlist and Free Ebook!http://www.YouTube.com/playlist?list=PLGCj8f6sgswnm7f0QbRxA6h4P0d1DSD6Q.http://bookboon.com/en/introduction-to-vectors-ebook   ",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/opendata",
+             "creator": {
+                 "fullName": "Rosie Williams",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/rosiewilliams-avatar-48-ts1463632914.jpg",
+                 "karma": 4,
+                 "profileUrl": "https://www.openlearning.com/u/rosiewilliams"
+             },
+             "duration": "7 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_opendata__course-promo-image-1457145673.96.jpg",
+             "name": "Introduction to Open Data",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": true,
+             "startDate": "25 Jun 2017",
+             "summary": "Open data is the new buzzword in research, politics and technology. Find out what it means, what is being done with it and what it means for you or your organisation. Image Designed by Freepik.com",
+             "type": "free"
+         },
+         {
+             "category": "Accounting & Finance",
+             "courseUrl": "https://www.openlearning.com/inceif/courses/Intro-to-takaful",
+             "creator": {
+                 "fullName": "Ezamshah Ismail",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/ezamshahismail-avatar-48-ts1479886304.jpg",
+                 "karma": 2,
+                 "profileUrl": "https://www.openlearning.com/u/ezamshahismail"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__inceif_courses_Intrototakaful__course-promo-image-1479437127.29.jpg",
+             "name": "Introduction to Islamic Finance (Takaful)",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/B2Vkq4eLaxs?rel=0",
+             "selfPaced": true,
+             "startDate": "21 Nov 2016",
+             "summary": "Greetings!Firstly, ask yourself these questions:Insurance or Takaful? What are the differences? How are they different? Insurance and Takaful share a common goal; to mitigate risk. The action of embracing into Takaful or Insurance is to manage various risks exist in our everyday lives.We believe in taking chances but often we dont know if its worth the risk. We believe though, the higher the risk, the higher will be the reward. Sometimes taking risks can excite us and will get the adrenaline pumping, and this can be a reward in itself. Thus, risk management is very important and here comes Takaful or Insurance into the picture. There are various strategies to manage threats include transfer, avoid, and reduce. In the modern era, Insurance and Takaful are often associated with risk management but few know the differences. So here we are to help you! In this course, you'll learn about Takaful and Insurance, their concepts and operations. Catch you soon!! What will you learn?This course will expose the students to the various Takaful business models. It consists of 5 awesome parts:Part 1: What are Risks?Part 2: Shariah Principles and Practices Underlying TakafulPart 3: Categories and Models of TakafulPart 4: Takaful Products and PracticesPart 5: Evaluating Takaful Plan At the end of this course, you should be able to:identify the category of risks and its influence towards insurance and Takaful;explain the forbidden elements (Shari'ah compliance) in Insurance business;illustrate Takaful business models and how it operates;explore and explain about Takaful products;and FINALLY,  to evaluate a plan (Takaful or insurance) for yourself.So, what are you waiting for? Come and join our community. Be interactive, share knowledge, and make new friends together here! :)",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learnonline.export.org.au/courses/introduction-to-growing-a-global-business",
+             "creator": {
+                 "fullName": "Export Council of Australia",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/exportcouncilofaustralia-avatar-48-ts1491198376.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/exportcouncilofaustralia"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__exportcouncilofaustralia_courses_introductiontogrowingaglobalbusiness__course-promo-image-1489550216.65.jpg",
+             "name": "Introduction to Growing a Global Business (mini MOOC)",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "20 Apr 2017",
+             "summary": "Selling your product overseas is a common step for Australian business owners. This free mini MOOC - which is also Module 1 of our 11-module Growing a Global Business course ($540 AUD) - will get you thinking about what is required to expand your offering to a global audience.Be inspired by Australian business case studies, chat with other business owners and share your exporting vision for your business. You will get to map out your international business plan with our template, and get a firm grasp on what you need to do to go global. In our Growing a Global Business course, you will get to explore the international business plan in further depth, with the support from industry experts.",
+             "type": "free"
+         },
+         {
+             "category": "Economics",
+             "courseUrl": "https://learnonline.export.org.au/courses/introduction-to-growing-a-global-business",
+             "creator": {
+                 "fullName": "Export Council of Australia",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/exportcouncilofaustralia-avatar-48-ts1491198376.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/exportcouncilofaustralia"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__exportcouncilofaustralia_courses_introductiontogrowingaglobalbusiness__course-promo-image-1489550216.65.jpg",
+             "name": "Introduction to Growing a Global Business (mini MOOC)",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "20 Apr 2017",
+             "summary": "Selling your product overseas is a common step for Australian business owners. This free mini MOOC - which is also Module 1 of our 11-module Growing a Global Business course ($540 AUD) - will get you thinking about what is required to expand your offering to a global audience.Be inspired by Australian business case studies, chat with other business owners and share your exporting vision for your business. You will get to map out your international business plan with our template, and get a firm grasp on what you need to do to go global. In our Growing a Global Business course, you will get to explore the international business plan in further depth, with the support from industry experts.",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/canva/courses/IntroToGraphicDesign",
+             "creator": {
+                 "fullName": "Canva Design School",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/hannahfield-avatar-48-ts1419301397.jpg",
+                 "karma": 38,
+                 "profileUrl": "https://www.openlearning.com/u/hannahfield"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__canva_courses_IntroToGraphicDesign__course-promo-image-1416988115.91.jpg",
+             "name": "Introduction to Graphic Design on Canva",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/3FZGN7BCs6k",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "Want to design beautiful graphics? Do you have a range of social media accounts, your own blog or a workplace presentation that you need to design images for? Canva is a free, online graphic design platform that makes creating beautiful images a breeze! Design effective social media posts, blog graphics, presentations, posters, flyers or create your own custom dimension design. This course will teach foundational graphic design principles (fonts, colors, images, backgrounds, and layouts) and how to apply them to your own Canva designs. By the end of this course, you will have the skills you need to create stunning graphics that stand out from the crowd!N.B. The start date of the course has been changed to February 2nd so that the course team can prepare an even more awesome course for you! ",
+             "type": "free"
+         },
+         {
+             "category": "Accounting & Finance",
+             "courseUrl": "https://www.openlearning.com/courses/introtofinancialaccounting",
+             "creator": {
+                 "fullName": "UiTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/masmeduitm-avatar-48-ts1441441118.jpg",
+                 "karma": 2141,
+                 "profileUrl": "https://www.openlearning.com/u/masmeduitm"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_introtofinancialaccounting__course-promo-image-1484639031.32.jpg",
+             "name": "Introduction to Financial Accounting",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/I9Sy6zOSAuk?rel=0",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "Are you keeping all those receipts, invoices, and vouchers with you? Do you ever feel you were overloaded with all those documents? Do you know that you can organise through accounting process?  This course will equip you with the basic accounting principles and how you can apply all the concepts in the preparation of financial statement. You will learn the process involved in financial accounting and how you can make use of it in real business. You will learn how to present financial statements that can be used to assist business planning and decision making. You will learn financial analysis techniques. Let's explore, learn together and get involved ! ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://www.openlearning.com/courses/introductiontoentrepreneurship",
+             "creator": {
+                 "fullName": "UiTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/masmeduitm-avatar-48-ts1441441118.jpg",
+                 "karma": 2141,
+                 "profileUrl": "https://www.openlearning.com/u/masmeduitm"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_introductiontoentrepreneurship__course-promo-image-1409921854.25.jpg",
+             "name": "Introduction to Entrepreneurship",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/M9PoqIUyiiE",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/intothefuturewithmoocs",
+             "creator": {
+                 "fullName": "Enna Ayub",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/iday3112-avatar-48-ts1482112549.jpg",
+                 "karma": 691,
+                 "profileUrl": "https://www.openlearning.com/u/iday3112"
+             },
+             "duration": "8 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_intothefuturewithmoocs__course-promo-image-1417684977.55.jpg",
+             "name": "Into the Future with MOOCs",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/dz7M55Xt_7A",
+             "selfPaced": true,
+             "startDate": "01 May 2016",
+             "summary": "This MOOC is an online training set up for Taylor's University's Malaysia staff, although it is opened to everyone from all corners of the world to participate. In Taylor's University, this course serves as a pre-requisite and complements the 'MOOC Me' Workshop which is the face-to-face workshop where each participants plan and build their own MOOC. This course contains resources on MOOC  i.e. background on MOOC, basics knowledge on how to start your own MOOC as well as have discussions with like minded people who are new to the MOOC concept and would like to know more about MOOC.  We hope that by getting the basic information on MOOC, you will be excited and motivated to start on your first MOOC journey.  This course is facilitated by Enna Ayub, the Lead e-Specialist for Content Development from  e-Learning Academy at Taylor's University, Malaysia. We also invite those who have knowledge on MOOC to offer their wisdom on any aspect of MOOC.   Note: This MOOC is now in self-paced mode.",
+             "type": "free"
+         },
+         {
+             "category": "Economics",
+             "courseUrl": "https://learn.com.au/courses/BSBRSK401",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_BSBRSK401__course-promo-image-1467357277.24.jpg",
+             "name": "Identify and Mitigate Risk",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "It has been said that a ship is safe in the harbour \u2013 but thats not what ships are for. The same could be said about businesses and risk. In fact, risk is an essential element of any business. This course will  run you through how to employ strategies to identify and mitigate your exposure to those risks. ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/BSBRSK401",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_BSBRSK401__course-promo-image-1467357277.24.jpg",
+             "name": "Identify and Mitigate Risk",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "It has been said that a ship is safe in the harbour \u2013 but thats not what ships are for. The same could be said about businesses and risk. In fact, risk is an essential element of any business. This course will  run you through how to employ strategies to identify and mitigate your exposure to those risks. ",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/ictcompetency",
+             "creator": {
+                 "fullName": "UNIMAS-MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/unimas-avatar-48-ts1403766719.jpg",
+                 "karma": 4869,
+                 "profileUrl": "https://www.openlearning.com/u/unimas"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_ictcompetency__course-promo-image-1441701845.08.jpg",
+             "name": "ICT Competency",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/Uvvop6Ku7QE?list=PLma7lafCkl9TGe7-Cw0g2DKSqfXpC7ieI",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "About the CourseIn the 21st century, learners are expected to utilise information and communication technology (ICT) tools to access up-to-date resources and perform essential computing tasks. This course is tailored to equip learners with the current ICT knowledge and skills in further enhancing their competency. Through this, they are able to apply relevant tools and use them effectively for learning purposes. Students are able to access the available videos and documents and exercises for the course content with week-by-week scheduling. ",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/howtoteachanawesomecourseonopenlearning",
+             "creator": {
+                 "fullName": "Brooke Hahn",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/brookehahn-avatar-48-ts1474939179.jpg",
+                 "karma": 547,
+                 "profileUrl": "https://www.openlearning.com/u/brookehahn"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_howtoteachanawesomecourseonopenlearning__course-promo-image-1439518003.31.jpg",
+             "name": "How to teach an awesome course on OpenLearning",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/2fTb-gao8zs",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "Learn how to design and teach an amazing course that your students will love!Want to engage your students? Motivate them? Keen to create authentic and meaningful learning experiences that really connect?In this course, you'll do just that: you'll learn how to use the OpenLearning platform to design and teach your own uber-fantastically-awesome course. Plus you'll get the experience of being a student in a fun and engaged learning community, before pioneering your own as a teacher.This course is taught by Brooke, OpenLearning's very Chief Learning Officer.(This isn't a picture of Brooke. But it is an indication of how you'll be feeling doing this course.)",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/heutagogy-the-art-of-engaging-gen-z",
+             "creator": {
+                 "fullName": "Mohamed Amin Embi",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/mohamedamin-avatar-48-ts1437536201.jpg",
+                 "karma": 3040,
+                 "profileUrl": "https://www.openlearning.com/u/mohamedamin"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_heutagogytheartofengaginggenz__course-promo-image-1506922189.65.jpg",
+             "name": "Heutagogy: The Art of Engaging the Digital Natives",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/mSMjMHuqO-o",
+             "selfPaced": true,
+             "startDate": "14 Oct 2017",
+             "summary": "Todays educators are constantly developing the skills students need to compete in the global economy. But what are the characteristics or skills needed to be an effective 21st century educator? Fundamentally, this entails the need for educators to be aware that they are now dealing with a new 21st  century learners \u2013Digital Natives \u2013 who have different priorities and ways of learning.  The problem is that most educators are still teaching the way they were taught in the past. Hence, there is a need to revisit the traditional conception of teaching often referrred to as Pedagogy and Andragogy.  It is time that we explore new ways to redesign learning so that it is relevant to the growing challenges of preparing our students to function in tomorrow's world. This can be done by first understanding who the Digital Natives are and how they have become self-determined learners .  This new knowledge is called H eutagogy and should be mastered by all educators especially at the higher education level if they desire to create meaningful and engaging learning experiences for the Digital Natives. This MOOC is a in-session/scheduled online professional development course worth 3 credit hours offered over a period of 8 weeks beginning the middle of October 2017. It consists of EIGHT modules designed using engaging and fun learning approaches; namely; i) task-based learning; ii) challenge-based learning, iii) gamified learning, and iv) crowd-sourced contents. ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://www.openlearning.com/courses/guidetostartingasuccessfulbusiness",
+             "creator": {
+                 "fullName": "Mohd Muttaqin",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/mohdmuttaqin-avatar-48-ts1392694252.jpg",
+                 "karma": 543,
+                 "profileUrl": "https://www.openlearning.com/u/mohdmuttaqin"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_guidetostartingasuccessfulbusiness__course-promo-image-1407289858.75.jpg",
+             "name": "Guide to Starting a Successful Business",
+             "price": 0,
+             "promoMediaUrl": " http://youtu.be/FBbI_QdTL70",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "This course is designed to enable learners to gain an understanding of the essential business principles on starting a successful business.This course will run for a total of 4 weeks. Learners are expected to complete the lessons and participate in the activities.At the end of week 4, certificate will be issued to the learners who managed to complete all the lessons and activities.Please refer to detail description for more info on the course. *THIS MOOC HAS OFFICIALLY ENDED. HOWEVER, STUDENTS CAN STILL ENROLL, VIEW THE CONTENT, AND LEARN AT THEIR OWN PACE.",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/Bsbsmb415",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbsmb415__course-promo-image-1466498710.53.jpg",
+             "name": "Growth Strategies for Small Business",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "According to the Australian Securities and Investments Commission, small businesses employ half the Australian workforce and account for one fifth of Australia's gross domestic product. If you are looking to thrive in this competitive marketplace, sustainable growth is crucial in giving you a strategic advantage. ",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://www.openlearning.com/courses/GlobalEntrepreneurship",
+             "creator": {
+                 "fullName": "Mushtak Al-Atabi",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/mushtak-avatar-48-ts1364656940.jpg",
+                 "karma": 11217,
+                 "profileUrl": "https://www.openlearning.com/u/mushtak"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_GlobalEntrepreneurship__course-promo-image-1396145983.12.jpg",
+             "name": "Global Entrepreneurship",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/OcMKdi0NyDI",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Entrepreneurship is a way of thinking and a frame of mind that can be learnt and cultivated. It is not only about making money but more about making a difference and transforming the world. Global Entrepreneurship, is a collaborative course between Taylor's University, Open Learning and Pozible. The course aims at unleashing the potential of everyone participating. Students will be working on real entrepreneurial projects, in teams of students from other parts of the world. Students will be using crowd funding techniques to realise projects that will have a global positive impact. Get ready to change the world!Cost: FREE",
+             "type": "free"
+         },
+         {
+             "category": "Economics",
+             "courseUrl": "https://www.openlearning.com/courses/GlobalEntrepreneurship",
+             "creator": {
+                 "fullName": "Mushtak Al-Atabi",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/mushtak-avatar-48-ts1364656940.jpg",
+                 "karma": 11217,
+                 "profileUrl": "https://www.openlearning.com/u/mushtak"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_GlobalEntrepreneurship__course-promo-image-1396145983.12.jpg",
+             "name": "Global Entrepreneurship",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/OcMKdi0NyDI",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Entrepreneurship is a way of thinking and a frame of mind that can be learnt and cultivated. It is not only about making money but more about making a difference and transforming the world. Global Entrepreneurship, is a collaborative course between Taylor's University, Open Learning and Pozible. The course aims at unleashing the potential of everyone participating. Students will be working on real entrepreneurial projects, in teams of students from other parts of the world. Students will be using crowd funding techniques to realise projects that will have a global positive impact. Get ready to change the world!Cost: FREE",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/Bsbled401",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbled401__course-promo-image-1475034399.84.jpg",
+             "name": "Foster Team and Individual Growth",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "In a fast-paced and changing world, keeping your team learning and growing is a key part of maintaining a competitive edge in business. As a leader in any workplace, it is your job to identify and manage opportunities to grow the experience and skills of your team.",
+             "type": "free"
+         },
+         {
+             "category": "Social Sciences",
+             "courseUrl": "https://www.openlearning.com/courses/ForensicPsychology",
+             "creator": {
+                 "fullName": "Tom Benjamin",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/tom.benjamin-avatar-48-ts1363056606.jpg",
+                 "karma": 189,
+                 "profileUrl": "https://www.openlearning.com/u/tom.benjamin"
+             },
+             "duration": "10 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_ForensicPsychology__course-promo-image-1389761744.88.jpg",
+             "name": "Forensic Psychology",
+             "price": 0,
+             "promoMediaUrl": "http://www.youtube.com/watch?v=1lmrXYq1lVM",
+             "selfPaced": null,
+             "startDate": "02 Feb 2014",
+             "summary": "This is a general public information forum on the topic of scientific method as it applies to psychology in the legal (forensic) setting. It is not a training course or a skills course. It is a discussion forum. The Activities section quizzes are intended for open discussion as they are topics of controversy. So they cannot be marked 'right' or 'wrong'. Neither can any certification be issued for participation.Those licensed to practise in related fields in their state or nation who wish to use this material for professional development are advised to contact their local registration authority regarding their policies for personal study.Some material in the videos has been obtained with special permission so anyone wishing to copy or adapt the material, even for non-profit or educational purposes, would have to independently contact the publishers for their own permissions, depending on local laws..",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/courses/flippedlearning",
+             "creator": {
+                 "fullName": "Abd Karim Alias",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/abdkarimalias-avatar-48-ts1395503412.jpg",
+                 "karma": 285,
+                 "profileUrl": "https://www.openlearning.com/u/abdkarimalias"
+             },
+             "duration": "22 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_flippedlearning__course-promo-image-1458981444.75.jpg",
+             "name": "Flipped Classroom: Total Classroom Makeover",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/oZBa2n2vL6I",
+             "selfPaced": null,
+             "startDate": "05 Nov 2014",
+             "summary": "Flipped learning or flipped classroom, is a new buzzword in the world of education. What is it? It is simply changing the typical 'sage on the stage' approach of the traditional classroom to a more student-centered, more engaging learning inside and outside the classroom.Flipped classroom is based on the notion of \u2018less is more; it is a pedagogical approach in which the focus is shifted from the traditional direct teaching and providing content but rather to focus more on engaging the students with the content. Leveraging on the internet, the content of the course can now be provided typically on an online learning platform and the students are expected to study the materials prior coming to the classroom. The classroom can now be transformed into a dynamic, interactive learning environment where the teacher facilitates and guides students as they explore/apply concepts and engage creatively in the subject matter.Flipped classroom is designed to empower students to become self-directed learners, allowing them to construct their own learning and create their own meaning. Designed and executed properly, Flipped classroom could be the key to a total classroom makeover.This short course will demonstrate my own approach to flipping the classroom, changing the way we teach and the way students learn. It is designed to help educators to design and deliver the flipped classroom effectively.For me, THE FLIPPED CLASSROOM HAS BEEN PROFOUND. Its really has CHANGED THE WAY I APPROACH TEACHING, what I want to get out of teaching, and the enjoyment and reward. Dr. Russel Mumper.",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/englishinthemedia",
+             "creator": {
+                 "fullName": "UNIMAS-MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/unimas-avatar-48-ts1403766719.jpg",
+                 "karma": 4869,
+                 "profileUrl": "https://www.openlearning.com/u/unimas"
+             },
+             "duration": "7 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_englishinthemedia__course-promo-image-1441706319.89.jpg",
+             "name": "English in the Media",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/K0xeNjNZk3E",
+             "selfPaced": null,
+             "startDate": "26 Aug 2016",
+             "summary": "This course explores various texts taken from media materials such as newspapers/ online news, magazines and advertisements/ brochures. This course looks at the language forms and structures of these texts and also the different writing styles. In addition, this course raises awareness of cultural and current issues pertaining to society concerns as a whole that may be embedded in the context. This is to assist students to understand various writing styles that will facilitate them in building their language knowledge and skills in English.",
+             "type": "free"
+         },
+         {
+             "category": "Education",
+             "courseUrl": "https://www.openlearning.com/classcover/courses/IWBs",
+             "creator": {
+                 "fullName": "Relief Teacher Association",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/bengrozier-avatar-48-ts1422698003.jpg",
+                 "karma": 884,
+                 "profileUrl": "https://www.openlearning.com/u/bengrozier"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__classcover_courses_IWBs__course-promo-image-1471792383.39.jpg",
+             "name": "Effective Use of Interactive Whiteboards",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/MSelCceRkRc",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "Important Announcement! On Tuesday, 1 August this course will be transitioned to a new course here on OpenLearning using the most recent interface.  This brings with it a large number of improvements in course navigation as well as some streamlining of content based on the last two years pf participant feedback. We recommend that new participants join the updated course which you can find here:https://www.openlearning.com/classcover/courses/EffectiveUseOfInteractivExisting participants, fear not!  This course will remain active so those already a significant way into the course can keep on going and complete it here.  The presenter's content remains the same in the new course, there's simply some altering of a few of the activities to make them easier to interact with.  Our two free courses, the other of which is Introduction to Relief Teaching for Graduates, are the first stage of bring all of our older courses to the most user friendly version of OpenLearning.s courses for the benefit of Relief Teacher Association members and guests.Description: Susan Burke from  interactivelessons.com.au presents 'Effective USe of Interactive Whiteboards' As educators, we know that technology engages students, and student engagement needs to be our top priority. Most classrooms are equipped with an interactive white board and this course will give you lots of fantastic, simple ways to use the IWB without any preparation.  Susan is an experienced teacher with a passion for designing IWB lessons. If you have had little or no training or experience with IWBs, this course is sure to get you excited about incorporating IWBs in your teaching. Addressed Standards:BOSTES: 4.5.2 &amp; 7.4.2Australian Professional Standards for Teachers: 4.5 &amp; 7.4This course contributes to 2 professional development hours.Target Audience:Relief Teachers",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/Bsbsmb406",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbsmb406__course-promo-image-1475029387.2.jpg",
+             "name": "Effective Financial Management for Small Business",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "This course will help you learn and apply fundamental financial management skills to your small business. By the end of this course, you will have skills in developing a solid financial foundation and maintaining standard processes around the financing of a small business.",
+             "type": "free"
+         },
+         {
+             "category": "Accounting & Finance",
+             "courseUrl": "https://learn.com.au/courses/Bsbsmb406",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbsmb406__course-promo-image-1475029387.2.jpg",
+             "name": "Effective Financial Management for Small Business",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "This course will help you learn and apply fundamental financial management skills to your small business. By the end of this course, you will have skills in developing a solid financial foundation and maintaining standard processes around the financing of a small business.",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/Bsbldr401",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbldr401__course-promo-image-1475027735.52.jpg",
+             "name": "Effective Communication for Successful Leadership",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "In order to communicate effectively, you need to be able to truly understand your workplace context, choose appropriate methods of communication to suit your audience, plan and undertake detailed communication plans, and follow up on the success of your communication and messaging.",
+             "type": "free"
+         },
+         {
+             "category": "Business",
+             "courseUrl": "https://learn.com.au/courses/Bsbmgt402",
+             "creator": {
+                 "fullName": "Learn-com-au",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/learncomau-avatar-48-ts1467973301.jpg",
+                 "karma": 0,
+                 "profileUrl": "https://www.openlearning.com/u/learncomau"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__learn_courses_Bsbmgt402__course-promo-image-1467786173.95.jpg",
+             "name": "Drive an Operational Plan to Success",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "01 Oct 2017",
+             "summary": "Implementing an operational plan is a key asset for businesses looking to grow and succeed. Skills in implementing an operational plan will help you plan resources, anticipate and manage risks, find a perfect fit for your team and create and facilitate high-performing and motivated teams! ",
+             "type": "free"
+         },
+         {
+             "category": "Mathematics",
+             "courseUrl": "https://www.openlearning.com/courses/discretemaths",
+             "creator": {
+                 "fullName": "UKM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/moocukm-avatar-48-ts1441700415.jpg",
+                 "karma": 11220,
+                 "profileUrl": "https://www.openlearning.com/u/moocukm"
+             },
+             "duration": "8 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_discretemaths__course-promo-image-1491890853.06.jpg",
+             "name": "Discrete Mathematics TR1333",
+             "price": 0,
+             "promoMediaUrl": "",
+             "selfPaced": null,
+             "startDate": "10 Sep 2017",
+             "summary": "Course synopsis The objective of this course is to introduce the aspects of discrete mathematics for information science and technology students. The topics to be studied include propositional logic, quantifiers and the validity of a proposition. In addition there will be a brief notes on set theory followed by ordered pairs, Cartesian multiplication of sets, equivalent relations, functions, partially and totally ordered sets. The next topic to be discussed is about integer and its application. Finally there is an introduction to graph theory and tree.   Learning outcomes  1) Formulate a proposition in words to a symbolic expression and solve the truth value of compound propositions using truth table or laws of logic.  2) Solve problems in discrete structures (set, permutation and combination, and relations) and their relation between them.  3) Apply representation of integers and some algorithms for integer arithmetic.  4) Apply graph and tree techniques  to model and solve problems in information technology.  5) Apply discrete structure techniques to solve problems in information technology. ",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information System",
+             "courseUrl": "https://www.openlearning.com/courses/SKEE1223x",
+             "creator": {
+                 "fullName": "UTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utmmooc-avatar-48-ts1426667461.jpg",
+                 "karma": 341,
+                 "profileUrl": "https://www.openlearning.com/u/utmmooc"
+             },
+             "duration": "14 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_SKEE1223x__course-promo-image-1441701106.87.jpg",
+             "name": "DIGITAL ELECTRONICS",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/Z2xVZaSz3rc",
+             "selfPaced": true,
+             "startDate": "05 Sep 2015",
+             "summary": "About This CourseDigital electronics is the foundation of all microprocessor-based systems found in computers, robots, automobiles, and industrial control systems. This course introduces the students to digital electronics and provides a broad overview of many important concepts, components, and tools. Students will get  up-to-date coverage of digital fundamentals-from basic concepts to programmable logic devices.Course StaffPROF. MADYA MUHAMMAD MUNIM BIN AHMAD ZABIDI Assoc. Professor Department of Electronic and Computer Engineering Faculty of Electrical Engineering Universiti Teknologi Malaysia E-mail: munim@utm.my | Website : raden.fke.utm.myMR. MUHAMMAD ARIF BIN ABDUL RAHIM Senior Lecturer Department of Electronic and Computer Engineering Faculty of Electrical Engineering Universiti Teknologi Malaysia E-mail: arif@fke.utm.my | Website :Course Learning Outcomes:At the end of this course, participants should be able to:Understand the basic principles of number systems and switching algebra applied to digital electronicsPerfom basic design and optimization using Boolean algebra and Karnaugh maps Understand and evaluate digital applications employing standard combinational &amp; sequential modulesPrerequisite:High School PhysicsCourse Delivery Format:Videos, PDF documents and animations. ",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information System",
+             "courseUrl": "https://www.openlearning.com/courses/SCSJ2013x",
+             "creator": {
+                 "fullName": "UTM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utmmooc-avatar-48-ts1426667461.jpg",
+                 "karma": 341,
+                 "profileUrl": "https://www.openlearning.com/u/utmmooc"
+             },
+             "duration": "22 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_SCSJ2013x__course-promo-image-1441701078.51.jpg",
+             "name": "DATA STRUCTURES AND ALGORITHMS",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/4_skC3otnqo",
+             "selfPaced": null,
+             "startDate": "05 Sep 2015",
+             "summary": "About This CourseThis course provides an introduction to data structure and algorithms, types of data structures and programming principles. Student will learn abstract data type concepts using class and apply ADT concept in the implementation of data structures. Recursive function, algorithm efficiency, order of magnitude analysis and Big O notation will be discussed. Students will implement operations that can be applied to data structures using various sorting and searching techniques. Further, students will be exposed to linear data structures such as linked lists, stack and queue. Non-linear data structures such as tree and graphs will also be discussed. At the end of the course, students should be able to implement and apply the theory and concepts of data structure in the mini project which is conducted in group. Course Staff  DR. NOR BAHIAH BINTI HJ. AHMAD  Senior Lecturer  Department of Software Engineering  Faculty of Computing Universiti Teknologi Malaysia  E-mail: bahiah@utm.my | Website :   comp.utm.my/bahiah  PROF. MADYA DR. DAYANG NORHAYATI BTE. ABANG JAWAWI Assoc. Professor Department of Software Engineering Faculty of Computing Universiti Teknologi Malaysia E-mail: dayang@utm.my | Website : comp.utm.my/dayang",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/clinical-antibiotic-stewarship-for-south-africa",
+             "creator": {
+                 "fullName": "SAASP",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/tomboyles-avatar-48-ts1457352087.jpg",
+                 "karma": 90,
+                 "profileUrl": "https://www.openlearning.com/u/tomboyles"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_clinicalantibioticstewarshipforsouthafrica__course-promo-image-1456817358.83.jpg",
+             "name": "Clinical Antibiotic Stewardship for South Africa",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/RLEeM46mZbs",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Antimicrobial resistance is a major threat to modern medicine. This course in Clinical Antibiotic Stewarship brought to you by the South African Antibiotic Stewardship Programme (SAASP) teaches the principles of antibiotic prescribing and an approach to common clinical problems.Whether you are a medical student or an experienced clinician, everyone can learn something new or update their skills.",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/cardiacregeneration",
+             "creator": {
+                 "fullName": "Anjan Kumar Das",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/anjankumardas-avatar-48-ts1427342314.jpg",
+                 "karma": 24,
+                 "profileUrl": "https://www.openlearning.com/u/anjankumardas"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_cardiacregeneration__course-promo-image-1433492675.3.jpg",
+             "name": "Cell therapy for cardiac regeneration",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/lzZtlni-9sU",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "Stem cells have the potential to change the way medicine is practiced. For the past 15 years, there have been stunning advances in the understanding of stem cells and their possible use in disease conditions. One of the areas where stem cell research has progressed remarkably is in the field of heart disease. Heart disease, as we all know, is one of the major killers in the world today and incidences, particularly in Asia, are rising every day. This course will help you enter the exciting world of stem cells and learn how it is impacting the management of cardiac disease. It will recount what is already known, analyse what the results mean and equip you with the information you need to make sense of this rapidly changing field. The course assumes knowledge of high school biology but we think that this is not essential to the understanding the material.  The course in interactive, so you will be able to ask questions and catch up if you find some concepts a little challenging at first.  The course will be of 8 weeks duration and will be interactive and FUN. ",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information System",
+             "courseUrl": "https://www.openlearning.com/courses/revit202basicbim",
+             "creator": {
+                 "fullName": "Bruce Lee Xia Sheng",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/bruceleexiasheng-avatar-48-ts1471946970.jpg",
+                 "karma": 421,
+                 "profileUrl": "https://www.openlearning.com/u/bruceleexiasheng"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_revit202basicbim__course-promo-image-1419308316.2.jpg",
+             "name": "Building Information Modeling 202",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/CqVk3JLHTf4",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Welcome to Taylors School of Design &amp; Architecture (SABD) Massive Online Open Course (MOOC). In Building Information Modeling 202, your instructor Bruce Lee will guide you to explore some of the interesting features in building information modeling (BIM) and with his guidance you will model a multi-storey building with BIM software. Students are also to explore more about nD modeling with different tool and software. Requirement: Student must have access to &quot;Revit 2014&quot; and Navisworks Manage 2014Although not neccessary, it is beneficial if you go through the &quot;self-paced&quot; MOOC Building Information 101 first, prior to enrolling into this course. Learners are expected to review the lesson in form of video/pdf/ppt slides and participate in the course activities in form of forum, or quizzes in several formats in order to receive the certificate of completion.  ",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information System",
+             "courseUrl": "https://www.openlearning.com/courses/revit101basicbim",
+             "creator": {
+                 "fullName": "Bruce Lee Xia Sheng",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/bruceleexiasheng-avatar-48-ts1471946970.jpg",
+                 "karma": 421,
+                 "profileUrl": "https://www.openlearning.com/u/bruceleexiasheng"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_revit101basicbim__course-promo-image-1407375722.27.jpg",
+             "name": "Building Information Modeling 101",
+             "price": 0,
+             "promoMediaUrl": "http://www.youtube.com/watch?v=sfbdWxvacxk",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "Welcome to Taylors School of Design &amp; Architecture (SABD) Massive Online Open Course (MOOC). In this course, Building Information Modeling 101, your instructor Bruce Lee will share with you the fundamentai concepts of building information modeling (BIM) and with his guidance you will model a simple shelter with BIM software. Requirement: Student must have access to &quot;Revit 2014&quot; Learners are expected to review the lesson in form of video/pdf/ppt slides and participate in the course activities in form of forum, or quizzes in several formats in order to receive the certificate of completion. If you have pre-registered before the start date, you will be able to see the content, but you can't click to view any of the content until the start date.  ",
+             "type": "free"
+         },
+         {
+             "category": "Natural Sciences",
+             "courseUrl": "https://www.openlearning.com/courses/JourneyIntoTheCell",
+             "creator": {
+                 "fullName": "Phelim Yong Voon Chen",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/phelimyong-avatar-48-ts1459499358.jpg",
+                 "karma": 77,
+                 "profileUrl": "https://www.openlearning.com/u/phelimyong"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_JourneyIntoTheCell__course-promo-image-1389334505.66.jpg",
+             "name": "Biosciences: Journey into the Cell",
+             "price": 0,
+             "promoMediaUrl": "http://www.youtube.com/watch?v=XdELloKfRCQ",
+             "selfPaced": true,
+             "startDate": null,
+             "summary": "In this course you will explore the journey into the cell. Here you will be able to understand some core concepts of cell biology such as cell membrane, cytoskeleton, cell trafficking and cell signaling.This course is targeted to secondary school levers however anyone can register into this course and participate in the activities.Learners are expected to review the lesson in form of video/pdf/ppt slides and participate in the course activities in forum, practice or quiz in order to receive the certificate of completion.If you have pre-registered before the start date, you will be able to see the content, but you can't click to view any of the content until the start date. *THIS MOOC HAS OFFICIALLY ENDED AND NO CERTIFICATE WILL BE ISSUED NOR COMMENTS BE READ BY THE TEAM AT TAYLOR'S UNIVERSITY. HOWEVER, STUDENTS CAN STILL ENROLL AND VIEW THE CONTENT.",
+             "type": "free"
+         },
+         {
+             "category": "Computers and Technology",
+             "courseUrl": "https://www.openlearning.com/courses/kenwong",
+             "creator": {
+                 "fullName": "Kendall Wong",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/kendallwong-avatar-48-ts1413927279.jpg",
+                 "karma": 69,
+                 "profileUrl": "https://www.openlearning.com/u/kendallwong"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_kenwong__course-promo-image-1416192738.18.jpg",
+             "name": "Basics of QR Codes",
+             "price": 0,
+             "promoMediaUrl": "http://youtu.be/1IF7ZEb3Ff4",
+             "selfPaced": false,
+             "startDate": null,
+             "summary": "This course will give students a simple and quick introduction to QR codes, otherwise known as Quick Response codes. ",
+             "type": "free"
+         },
+         {
+             "category": "Humanities",
+             "courseUrl": "https://www.openlearning.com/courses/auxophysiology",
+             "creator": {
+                 "fullName": "Auxphysiology",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/auxphysiology-avatar-48-ts1433685678.jpg",
+                 "karma": 1,
+                 "profileUrl": "https://www.openlearning.com/u/auxphysiology"
+             },
+             "duration": "4 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_auxophysiology__course-promo-image-1433506793.94.jpg",
+             "name": "Auxophysiology",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/ssbmXJAGyLo",
+             "selfPaced": null,
+             "startDate": "07 Jun 2015",
+             "summary": "The course is simply an introduction on blood physiology, starting with the function of the blood, passing through the R.B.Cs and W.B.Cs. Eventually, the paltelets and hemostasis.",
+             "type": "free"
+         },
+         {
+             "category": "Computer Science & Information Systems",
+             "courseUrl": "https://www.openlearning.com/courses/databaseanintroduction",
+             "creator": {
+                 "fullName": "UTeM MOOC",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/utemmooc-avatar-48-ts1449016556.jpg",
+                 "karma": 35,
+                 "profileUrl": "https://www.openlearning.com/u/utemmooc"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_databaseanintroduction__course-promo-image-1440634754.82.jpg",
+             "name": "An Introduction To Database",
+             "price": 0,
+             "promoMediaUrl": "https://www.youtube.com/embed/y5EXxwcTELw",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": " This is an introductory course to database and file management system. It assists students to form an understanding to data modeling, file management and database system functionality in information system. The students will be introduced to the process of designing, developing and executing database applications. ",
+             "type": "free"
+         },
+         {
+             "category": "Accounting & Finance",
+             "courseUrl": "https://www.openlearning.com/courses/abeginnersguidetopreparingfinancialstatements",
+             "creator": {
+                 "fullName": "Mr Ong",
+                 "imageUrl": "https://openlearning-cdn.s3.amazonaws.com/davidoft-avatar-48-ts1391999260.jpg",
+                 "karma": 23,
+                 "profileUrl": "https://www.openlearning.com/u/davidoft"
+             },
+             "duration": "0 weeks",
+             "image": "https://openlearning-cdn.s3.amazonaws.com/course__courses_abeginnersguidetopreparingfinancialstatements__course-promo-image-1433825864.28.jpg",
+             "name": "A Beginner's Guide to Preparing Financial Statements",
+             "price": 0,
+             "promoMediaUrl": " https://www.youtube.com/embed/zpQbx5FFlFk",
+             "selfPaced": null,
+             "startDate": null,
+             "summary": "Hello there! Are you a business owner without accounting background? Are you a business student who would like to know how to prepare financial statements? Or are you just curious to learn more about financial statements of businesses? If your answers are yes to any of the above, then this course is for you! A Beginner's Guide to Preparing Financial Statements is a 3-Lessons course designed to teach students about preparation of two important financial statements, which are Income Statement and Statement of Financial Position. Participants without any accounting knowledge are most welcomed to participate in this course! ",
+             "type": "free"
+         }
+     ]
+ }
